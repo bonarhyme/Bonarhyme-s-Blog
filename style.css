@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+header{
+    font-family: 'Metal Mania', cursive;
+}
+h2{
+    font-family: 'Metal Mania', cursive;
+}
 figure{
     max-width: 400px;
     max-height: auto;
@@ -7,7 +14,6 @@ body{
     background-image: url(https://images.unsplash.com/photo-1587614382346-4ec70e388b28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60);
     background-attachment: fixed;
     background-clip: border-box;
-    background-size: cover;
-    
+    background-size: cover; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-  
